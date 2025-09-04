@@ -1,0 +1,21 @@
+# Core
+torch
+torchvision
+torchaudio
+
+# Image processing
+Pillow
+numpy
+
+# Machine Learning
+scikit-learn
+
+# Hugging Face Transformers (incl. DINOv3)
+transformers
+
+# TabPFN
+tabpfn
+
+# Additional dependencies often required by Transformers and Torch models
+omegaconf
+xformers
